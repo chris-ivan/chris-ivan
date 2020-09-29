@@ -11,8 +11,11 @@ While I am not pursuing a degree in Computer Science or Art, I am experienced in
 <h3>⚡ Technologies</h3>
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
+<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js">
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python">
+<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">
 </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chris-ivan&count_private=true&theme=react&show_icons=true&include_all_commits=true)
