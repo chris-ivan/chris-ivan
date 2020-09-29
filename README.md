@@ -16,6 +16,12 @@ While I am not pursuing a degree in Computer Science or Art, I am experienced in
 <img src="https://img.shields.io/badge/-React-333333?style=flat-square&logo=react">
 <img src="https://img.shields.io/badge/-HTML5-333333?style=flat-square&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-333333?style=flat-square&logo=css3">
+<img src="https://img.shields.io/badge/-Bootstrap-333333?style=flat-square&logo=bootstrap">
+<img src="https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb">
+<img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
+<img src="https://img.shields.io/badge/-Netlify-333333?style=flat-square&logo=netlify">
+<img src="https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
 </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chris-ivan&count_private=true&theme=react&show_icons=true&include_all_commits=true)
