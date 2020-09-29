@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **GatsbyJS**
 
-- 📫 How to reach me **gunardi.ivan@gmail.com**
+- 📫 Contact me here: **gunardi.ivan@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/christopher ivan gunardi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christopher ivan gunardi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/christopher-ivan-gunardi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="christopher ivan gunardi" height="30" width="40" /></a>
 <a href="https://instagram.com/christopher.01__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="christopher.01__" height="30" width="40" /></a>
 </p>
 
