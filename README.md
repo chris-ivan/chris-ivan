@@ -10,6 +10,8 @@ While I am not pursuing a degree in Computer Science or Art, I am experienced in
   
 <h3>⚡ Technologies</h3>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
+<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript">
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chris-ivan&count_private=true&theme=react&show_icons=true&include_all_commits=true)
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chris-ivan&theme=react&layout=compact" alt="chris-ivan" /></p>
