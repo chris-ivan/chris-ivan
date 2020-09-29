@@ -4,8 +4,8 @@
 While I am not pursuing a degree in Computer Science or Art, I am experienced in Frontend Web Development and UI/UX and have worked on several projects in these two fields. I love creating websites with React, but doing backend stuff with MERN Stack is an option too. I am also comfortable with using Adobe Photoshop and Figma to create professional UI/UX Designs.
 
 <h3>Contacts</h3>
-<a href="https://www.linkedin.com/in/christopher-ivan-gunardi/"><img src="https://img.shields.io/badge/-christopher--ivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-ivan-gunardi/"></a>
-<img src="https://img.shields.io/badge/-christopher.01____-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/christopher.01__/">
+<a href="https://www.linkedin.com/in/christopher-ivan-gunardi/"><img src="https://img.shields.io/badge/-christopher--ivan-blue?style=flat-square&logo=Linkedin&logoColor=white/"></a>
+<a href="https://instagram.com/christopher.01__"><img src="https://img.shields.io/badge/-christopher.01____-purple?style=flat-square&logo=instagram&logoColor=white/">
 <a href="https://www.linkedin.com/in/christopher-ivan-gunardi/"><img src="https://img.shields.io/badge/-christopher--ivan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christopher-ivan-gunardi/"></a>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chris-ivan&count_private=true&theme=react&show_icons=true&include_all_commits=true)
