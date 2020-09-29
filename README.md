@@ -20,7 +20,8 @@ While I am not pursuing a degree in Computer Science or Art, I am experienced in
 <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb">
 <img src="https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git">
 <img src="https://img.shields.io/badge/-Netlify-333333?style=flat-square&logo=netlify">
-<img src="https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobephotoshop&logoColor=white">
+<img src="https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=affinitydesigner&logoColor=white">
 <img src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
 </p>
 
