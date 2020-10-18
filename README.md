@@ -27,7 +27,7 @@ While I am not pursuing a degree in Computer Science or Art, I am experienced in
 
 <h3>🔥 Current Projects</h3>
 <ul>
-  <li><h4><a href="http://www.akumasukitb.com/">🚀 Aku Masuk ITB 2021 [Frontend]</a></h4>
+  <li><h4><a href="http://www.akumasukitb.com/">🚀 Aku Masuk ITB 2021</a></h4>
     <p>A website project for an annual campus event "Aku Masuk ITB (AMI)"</p>
   </li>
   <li><h4>📰 MileZero [Under Construction]</h4>
