@@ -25,7 +25,16 @@ While I am not pursuing a degree in Computer Science or Art, I am experienced in
 <img src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
 <br>📘 Currently exploring: <img src="https://img.shields.io/badge/-GatsbyJS-333333?style=flat-square&logo=gatsby&color=purple"> <img src="https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase&color=orange"></p>
 
-<h3>🔥 Latest (Mini) Projects</h3>
+<h3>🔥 Current Projects</h3>
+<ul>
+  <li><h4><a href="http://www.akumasukitb.com/">🚀 Aku Masuk ITB 2021 [Frontend]</a></h4>
+    <p>A website project for an annual campus event "Aku Masuk ITB (AMI)"</p>
+  </li>
+  <li><h4>📰 MileZero [Under Construction]</h4>
+    <p>Upcoming IEEE ITB Student Branch event in collaboration with Microsoft and Schneider</p>
+</ul>
+
+<h3>👀 Latest (Mini) Projects</h3>
 <ul>
   <li><h4><a href="http://insanemath.site/">➗ Insane Math</a></h4>
     <p>A website project created to help students from Elementary to Senior High School learn math through a math quiz game.<br>Tags: React, PHP, Bootstrap, Math</p>
@@ -33,7 +42,7 @@ While I am not pursuing a degree in Computer Science or Art, I am experienced in
   <li><h4><a href="http://bit.ly/BibtyLuxuryRent">💰 Bibty Luxury Renting</a></h4>
     <p>Bibty is created to enable people share their luxurious goods with a renting system. The goal to help people from middle-class to rent prestigious items they cannot afford by renting the item temporarily.<br>Tags: UI/UX, Figma, Adobe Photoshop</p>
   </li>
-    <li><h4><a href="https://angry-lewin-3ef6fc.netlify.app/">💬 PPAB UKT Private Chatroom</a></h4>
+    <li><h4><a href="https://nervous-spence-8fbc52.netlify.app/">💬 PPAB UKT Private Chatroom</a></h4>
     <p>A simple chatroom website.<br>Tags: React, Socket.io, Netlify</p>
   </li>
 </ul>
