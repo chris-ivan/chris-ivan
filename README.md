@@ -47,9 +47,4 @@ While I am not pursuing a degree in Computer Science or Art, I am experienced in
   </li>
 </ul>
 
-<h3>Why DSC ITB?</h3>
-<p>Interested in Google Developer Technologies and want to create connections with developers around me, especially since I'm not learning CS at college<br>
-👉 <a href="https://github.com/Chris-Ivan/EksplorasiGoogleDevProducts">Google Developer Products README repo</a></p>
-<br>
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=chris-ivan&count_private=true&theme=react&show_icons=true&include_all_commits=true)
