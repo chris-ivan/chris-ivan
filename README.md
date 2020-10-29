@@ -23,7 +23,7 @@ While I am not pursuing a degree in Computer Science or Art, I am experienced in
 <img src="https://img.shields.io/badge/-Photoshop-333333?style=flat-square&logo=adobe-photoshop">
 <img src="https://img.shields.io/badge/-Affinity Designer-333333?style=flat-square&logo=affinity-designer">
 <img src="https://img.shields.io/badge/-Figma-333333?style=flat-square&logo=figma">
-<br>📘 Currently exploring: <img src="https://img.shields.io/badge/-GatsbyJS-333333?style=flat-square&logo=gatsby&color=purple"> <img src="https://img.shields.io/badge/-Firebase-333333?style=flat-square&logo=firebase&color=orange"></p>
+<br>📘 To-Learn-List: Django, NextJS</p>
 
 <h3>🔥 Current Projects</h3>
 <ul>
