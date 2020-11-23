@@ -30,7 +30,7 @@ While I am not pursuing a degree in Computer Science or Art, I am experienced in
   <li><h4><a href="http://www.akumasukitb.com/">🚀 Aku Masuk ITB 2021</a></h4>
     <p>A website project for an annual campus event "Aku Masuk ITB (AMI)"</p>
   </li>
-  <li><h4>📰 MileZero [Under Construction]</h4>
+  <li><h4><a href="http://www.milezeroproject.com/">📰 MileZero Project</a></h4>
     <p>Upcoming IEEE ITB Student Branch event in collaboration with Microsoft and Schneider</p>
 </ul>
 
